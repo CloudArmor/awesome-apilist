@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Public APIs</h1>
+    <h1>Awesome API list</h1>
     <i>A collective list of free APIs for use in software and web development</i>
 </div>
 
@@ -8,21 +8,21 @@
 <div align="center">
     <sup>Status</sup>
     <br />
-    <a href="https://github.com/public-apis/public-apis#index">
+    <a href="https://github.com/cloudarmor/awesome-apilist#index">
         <img alt="Number of Categories" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/categories&label=Number%20of%20Categories&query=$.count&color=informational" />
     </a>
-    <a href="https://github.com/public-apis/public-apis">
+    <a href="https://github.com/cloudarmor/awesome-apilist">
         <img alt="Number of APIs" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/entries&label=Number%20of%20APIs&query=$.count&color=informational" />
     </a>
     <br />
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml">
-        <img alt="Tests of push and pull" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_push_and_pull.yml/badge.svg" />
+    <a href="https://github.com/cloudarmor/awesome-apilist/actions/workflows/test_of_push_and_pull.yml">
+        <img alt="Tests of push and pull" src="https://github.com/cloudarmor/awesome-apilist/actions/workflows/test_of_push_and_pull.yml/badge.svg" />
     </a>
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/validate_links.yml">
-        <img alt="Validate links" src="https://github.com/public-apis/public-apis/actions/workflows/validate_links.yml/badge.svg" />
+    <a href="https://github.com/cloudarmor/awesome-apilist/actions/workflows/validate_links.yml">
+        <img alt="Validate links" src="https://github.com/cloudarmor/awesome-apilist/actions/workflows/validate_links.yml/badge.svg" />
     </a>
-    <a href="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml">
-        <img alt="Tests of validate package" src="https://github.com/public-apis/public-apis/actions/workflows/test_of_validate_package.yml/badge.svg" />
+    <a href="https://github.com/cloudarmor/awesome-apilist/actions/workflows/test_of_validate_package.yml">
+        <img alt="Tests of validate package" src="https://github.com/cloudarmor/awesome-apilist/actions/workflows/test_of_validate_package.yml/badge.svg" />
     </a>
 </div>
 
@@ -33,8 +33,8 @@
     <br />
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="https://github.com/davemachado/public-api">API for this project</a> •
-    <a href="https://github.com/public-apis/public-apis/issues">Issues</a> •
-    <a href="https://github.com/public-apis/public-apis/pulls">Pull Requests</a> •
+    <a href="https://github.com/cloudarmor/awesome-apilist/issues">Issues</a> •
+    <a href="https://github.com/cloudarmor/awesome-apilist/pulls">Pull Requests</a> •
     <a href="LICENSE">License</a>
     
 
