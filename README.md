@@ -44,8 +44,8 @@
     <sub>Alternative sites for the project (unofficials)</sub>
     <br />
     <a href="https://free-apis.github.io">Free APIs</a> •
-    <a href="https://devresourc.es/tools-and-utilities/public-apis">Dev Resources</a> •
-    <a href="https://www.public-apis.ml">Public APIs Site</a> •
+    <a href="https://devresourc.es/tools-and-utilities/awesome-apilist">Dev Resources</a> •
+    <a href="https://www.cloudarmor.github.io">Public APIs Site</a> •
     <a href="https://apihouse.vercel.app">Apihouse</a> •
     <a href="https://collective-api.vercel.app/">Collective APIs</a> 
 </div>
@@ -58,7 +58,7 @@
 
 <div align="center">
     <p>
-        <a href="https://opencollective.com/public-apis">[ <strong>Become a sponsor</strong> and support Public APIs and their maintainers ]</a>
+        <a href="https://opencollective.com/cloudarmor">[ <strong>Become a sponsor</strong> and support Public APIs and their maintainers ]</a>
     </p>
     <p><strong>Special thanks to:</strong></p>
     <p>
@@ -75,7 +75,7 @@
         </a>
         <a href="https://apilayer.com#gh-dark-mode-only">
             <div>
-                <img src="https://raw.githubusercontent.com/public-apis/public-apis/master/.github/assets/sponsors_logo/m3o_logo_white.png" width="250" alt="APILayer Logo" />
+                <img src="https://raw.githubusercontent.com/CloudArmor/awesome-apilist/master/.github/assets/sponsors_logo/m3o_logo_white.png" width="250" alt="APILayer Logo" />
             </div>
             <div>
                 <p><strong>The fastest way to integrate APIs into any product</strong></p>
@@ -95,57 +95,59 @@
 
 ## Index
 
-* [Animals](#animals)
-* [Anime](#anime)
-* [Anti-Malware](#anti-malware)
-* [Art & Design](#art--design)
-* [Authentication & Authorization](#authentication--authorization)
-* [Blockchain](#blockchain)
-* [Books](#books)
-* [Business](#business)
-* [Calendar](#calendar)
-* [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
-* [Continuous Integration](#continuous-integration)
-* [Cryptocurrency](#cryptocurrency)
-* [Currency Exchange](#currency-exchange)
-* [Data Validation](#data-validation)
-* [Development](#development)
-* [Dictionaries](#dictionaries)
-* [Documents & Productivity](#documents--productivity)
-* [Email](#email)
-* [Entertainment](#entertainment)
-* [Environment](#environment)
-* [Events](#events)
-* [Finance](#finance)
-* [Food & Drink](#food--drink)
-* [Games & Comics](#games--comics)
-* [Geocoding](#geocoding)
-* [Government](#government)
-* [Health](#health)
-* [Jobs](#jobs)
-* [Machine Learning](#machine-learning)
-* [Music](#music)
-* [News](#news)
-* [Open Data](#open-data)
-* [Open Source Projects](#open-source-projects)
-* [Patent](#patent)
-* [Personality](#personality)
-* [Phone](#phone)
-* [Photography](#photography)
-* [Programming](#programming)
-* [Science & Math](#science--math)
-* [Security](#security)
-* [Shopping](#shopping)
-* [Social](#social)
-* [Sports & Fitness](#sports--fitness)
-* [Test Data](#test-data)
-* [Text Analysis](#text-analysis)
-* [Tracking](#tracking)
-* [Transportation](#transportation)
-* [URL Shorteners](#url-shorteners)
-* [Vehicle](#vehicle)
-* [Video](#video)
-* [Weather](#weather)
+- [Index](#index)
+  - [Animals](#animals)
+  - [Anime](#anime)
+  - [Anti-Malware](#anti-malware)
+  - [Art \& Design](#art--design)
+  - [Authentication \& Authorization](#authentication--authorization)
+  - [Blockchain](#blockchain)
+  - [Books](#books)
+  - [Business](#business)
+  - [Calendar](#calendar)
+  - [Cloud Storage \& File Sharing](#cloud-storage--file-sharing)
+  - [Continuous Integration](#continuous-integration)
+  - [Cryptocurrency](#cryptocurrency)
+  - [Currency Exchange](#currency-exchange)
+  - [Data Validation](#data-validation)
+  - [Development](#development)
+  - [Dictionaries](#dictionaries)
+  - [Documents \& Productivity](#documents--productivity)
+  - [Email](#email)
+  - [Entertainment](#entertainment)
+  - [Environment](#environment)
+  - [Events](#events)
+  - [Finance](#finance)
+  - [Food \& Drink](#food--drink)
+  - [Games \& Comics](#games--comics)
+  - [Geocoding](#geocoding)
+  - [Government](#government)
+  - [Health](#health)
+  - [Jobs](#jobs)
+  - [Machine Learning](#machine-learning)
+  - [Music](#music)
+  - [News](#news)
+  - [Open Data](#open-data)
+  - [Open Source Projects](#open-source-projects)
+  - [Patent](#patent)
+  - [Personality](#personality)
+  - [Phone](#phone)
+  - [Photography](#photography)
+  - [Programming](#programming)
+  - [Science \& Math](#science--math)
+  - [Security](#security)
+  - [Shopping](#shopping)
+  - [Social](#social)
+  - [Sports \& Fitness](#sports--fitness)
+  - [Test Data](#test-data)
+  - [Text Analysis](#text-analysis)
+  - [Tracking](#tracking)
+  - [Transportation](#transportation)
+  - [URL Shorteners](#url-shorteners)
+  - [Vehicle](#vehicle)
+  - [Video](#video)
+  - [Weather](#weather)
+- [License](#license)
 
 ### Animals
 API | Description | Auth | HTTPS | CORS |
@@ -756,7 +758,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Finnhub](https://finnhub.io/docs/api) | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto | `apiKey` | Yes | Unknown |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/) | Economic data from the Federal Reserve Bank of St. Louis | `apiKey` | Yes | Yes |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Front accounting is multilingual and multicurrency software for small businesses | `OAuth` | Yes | Yes |
-| [Hotstoks](https://hotstoks.com?utm_source=public-apis) | Stock market data powered by SQL | `apiKey` | Yes | Yes |
+| [Hotstoks](https://hotstoks.com?utm_source=CloudArmor) | Stock market data powered by SQL | `apiKey` | Yes | Yes |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Realtime & Historical Stock and Market Data | `apiKey` | Yes | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Yes | Unknown |
 | [Indian Mutual Fund](https://www.mfapi.in/) | Get complete history of India Mutual Funds Data | No | Yes | Unknown |
@@ -1834,4 +1836,4 @@ API | Description | Auth | HTTPS | CORS |
 <br>
 
 ## License
-[MIT](LICENSE) (c) 2022 public-apis
+[MIT](LICENSE) (c) 2022 CloudAr
